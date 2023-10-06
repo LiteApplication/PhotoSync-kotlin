@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="index_extensions">
+        <item>jpg</item>
+        <item>jpeg</item>
+        <item>png</item>
+        <item>gif</item>
+        <item>webp</item>
+        <item>mp4</item>
+        <item>mkv</item>
+        <item>avi</item>
+        <item>3gp</item>
+        <item>flv</item>
+        <item>mov</item>
+        <item>mpg</item>
+        <item>mpeg</item>
+        <item>webm</item>
+    </array>
+    <array name="image_types">
+        <item>jpg</item>
+        <item>jpeg</item>
+        <item>png</item>
+        <item>gif</item>
+        <item>webp</item>
+    </array>
+    <array name="video_types">
+        <item>mp4</item>
+        <item>mkv</item>
+        <item>avi</item>
+        <item>3gp</item>
+        <item>flv</item>
+        <item>mov</item>
+        <item>mpg</item>
+        <item>mpeg</item>
+        <item>webm</item>
+    </array>
+    <array name="audio_types">
+        <item>mp3</item>
+        <item>ogg</item>
+        <item>wav</item>
+        <item>flac</item>
+        <item>m4a</item>
+        <item>aac</item>
+    </array>
+</resources>

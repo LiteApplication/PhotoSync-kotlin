@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoSync</string>
+    <string name="server_url" translatable="false">http://liteapp.fr:2701/api/</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
